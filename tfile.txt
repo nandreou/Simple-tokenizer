@@ -1,0 +1,8 @@
+var nick, integer50 ,
+bool50
+bool50 char50 here151355 :
+integer50
+real50
+var
+integer50
+nick :
